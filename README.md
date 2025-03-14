@@ -11,9 +11,9 @@
 
 ## Objectives
 The WP will focus on combining traditional investment approaches with ESG insights.
-	5.1. To answer the main research questions on incorporating ESG considerations into investment process and portfolio construction.
-	5.2. To demonstrate the recommender system, green AI credit scoring and ABMs through use cases (SWE, RAI, DEL).
-	5.3. To disseminate the knowledge through open source implementations, validated by FRA, ECB, ARC
+- 5.1. To answer the main research questions on incorporating ESG considerations into investment process and portfolio construction.
+- 5.2. To demonstrate the recommender system, green AI credit scoring and ABMs through use cases (SWE, RAI, DEL).
+- 5.3. To disseminate the knowledge through open source implementations, validated by FRA, ECB, ARC
 
 ## Description
 WP 5 is led by UNA and supported by all partners. The work is divided into the following tasks:
