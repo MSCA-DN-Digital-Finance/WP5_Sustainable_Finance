@@ -2,7 +2,7 @@
 
 - Lead Benificiary: University of Naples.
 - Researchers involved: See link
-- University of Naples Federico II (Lead): Francesco Palumbo, Alfonso Iodice D'Enza, Maria Iannario, Antonio Pescapè
+- University of Naples Federico II (Lead): Francesco Palumbo, Alfonso Iodice D'Enza, Maria Iannario, Domenico Ciuonzo, Marcella Corduas
 - University of Twente: Abhista Abhista, Ekaterina Svetlova, Joerg Osterrieder, Jos van Hillegersberg, Laura Spierdijk, Marcos Machado, Martijn Mes, Wouter van Heeswijk
 - Kaunas University of Technology: Audrius Kabasinskas, Eimutis Valakevičius, Kristina Šutienė
 - Active period: From M4 to M48.
@@ -12,7 +12,7 @@
 ## Objectives
 The WP will focus on combining traditional investment approaches with ESG insights.
 	5.1. To answer the main research questions on incorporating ESG considerations into investment process and portfolio construction.
-	5.2. To demonstrate the recommender system, green AI credit scoring and ABMs through use cases (SWE, RAI, DEL, INT).
+	5.2. To demonstrate the recommender system, green AI credit scoring and ABMs through use cases (SWE, RAI, DEL).
 	5.3. To disseminate the knowledge through open source implementations, validated by FRA, ECB, ARC
 
 ## Description
