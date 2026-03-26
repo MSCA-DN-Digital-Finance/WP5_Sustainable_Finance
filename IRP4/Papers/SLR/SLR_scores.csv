@@ -1,0 +1,80 @@
+Year,Title,Financial Domain,Quadrant,Problem & Contribution Clarity (0-2),Evaluation Soundness (0-2),Result Credibility (0-2),SLR Relevance (0-2),Total Score (0-8)
+2021,CEBRA: A CasE-Based Reasoning Application to recommend banking products,Commercial Banking,Q1,2,1,1,2,6
+2018,A Joint Approach to Data Clustering and Robo-Advisor,Robo-advisory,Q1,2,1,1,2,6
+2018,A novel stock recommendation system using Guba sentiment analysis,Stock Market,Q1,1,1,2,1,5
+2020,A Recommendation System For Car Insurance,Car Insurance,Q1,2,2,2,2,8
+2020,A Recommender System For Investing In Early-Stage Enterprises,Venture Capital,Q1,2,2,1,2,7
+2018,A Stock-movement Aware Approach for Discovering Investors Preferences,Stock Market,Q1,1,1,1,2,5
+2022,Addressing the cold-start problem using few-shot deep learning,Stock Recommendation,Q1,2,2,1,2,7
+2018,An equity fund recommendation system using transfer learning and prospect theory,Equity Fund,Q1,2,1,1,2,6
+2023,Automatic Personalized Health Insurance Recommendation,Health Insurance,Q1,2,2,1,2,7
+2022,CSRLoan: Cold Start Loan Recommendation with Semantic-Enhanced NMF,Loan / Microfinance,Q1,2,2,1,2,7
+2022,Design of a personalized recommender system using sentiment analysis,Banking Services,Q1,1,1,1,2,5
+2019,Evaluating multi-label classifiers and recommender systems in financial services,Financial Cross-selling,Q1,2,2,2,2,8
+2020,Fog computing architecture for personalized banking product recommendation,Commercial Banking,Q1,2,1,1,2,6
+2023,Harnessing Behavioral Traits for Financial Stock Recommendation,Stock Recommendation,Q1,2,2,2,2,8
+2018,Incremental multiple kernel extreme learning machine for Robo-advisors,Robo-Advisory,Q1,1,1,1,2,5
+2018,Large-scale Recommendation for Portfolio Optimization,Stock / Portfolio,Q1,2,2,2,2,8
+2022,LFFI-H: A Recommendation System for Crowdfunding,Crowdfunding,Q1,1,1,1,2,5
+2020,Modeling a stock-based collaborative filtering algorithm,Stock Market,Q1,1,1,1,2,5
+2023,OCI-CBR: A hybrid model for preference-aware investment,Venture Capital,Q1,2,1,1,2,6
+2019,Personalized Fairness-aware Re-ranking for Microlending,Microlending,Q1,2,2,2,2,8
+2023,sustain.AI: A Recommender System to analyze Sustainability Reports,ESG / Sustainability,Q1,2,2,2,2,8
+2024,Sectoral recommendation for medium term investment using technical indicators,Stock Market,Q1,1,2,1,1,5
+2024,SPCM: Sentiment-Based Stock Recommendation,Stock Recommendation,Q1,1,1,1,2,5
+2018,Using Discriminative Graphical Models for Insurance Recommender Systems,Insurance,Q1,2,2,2,2,8
+2022,Personalized Recommendation in P2P Lending: A Multi-Objective Perspective,P2P Lending,Q1,2,2,2,2,8
+2019,Investment Recommendation System for Low-Liquidity P2P Lending,P2P Lending,Q1,2,2,2,2,8
+2024,Can ChatGPT improve investment decisions?,Portfolio Management,Q1,2,1,1,1,5
+2025,Your AI Not Your View: The Bias of LLMs in Investment Analysis,Investment Analysis,Q1,2,2,2,1,7
+2025,Stock intelligent recommendation based on LZ-Apriori,Stock Recommendation,Q1,1,1,1,2,5
+2025,Investment Recommender System Based on Key Decision Factors,Personal Investment,Q1,1,1,1,2,5
+2024,A model for investment type recommender using ANFIS and MNN,Investment,Q1,1,1,1,2,5
+2023,Adaptive neuro-fuzzy inference system for customizing investment type,Personal Investment,Q1,2,1,1,2,6
+2025,A Rule-Based Stock Trading Recommendation System,Stock Trading,Q1,1,1,1,2,5
+2019,A Hierarchical Insurance Recommendation using GraphOLAM,Insurance / BI,Q2,1,1,1,2,5
+2021,Knowledge-aware Time-sensitive Financial News Recommendation,Financial News,Q2,2,1,1,2,6
+2020,A Venture Capital Recommendation based on HIN,Venture Capital,Q2,2,1,1,2,6
+2022,Customer-Category Interest Model using GNN-based CF,Finance Marketing,Q2,2,2,1,2,7
+2022,Decomposing Complementary and Substitutable Relations (SPGCN),Corporate Investment,Q2,2,2,1,2,7
+2022,Explainable mutual fund recommendation using KG embeddings,Mutual Fund,Q2,2,2,2,2,8
+2024,Federated Meta Embedding Concept Stock Recommendation,Stock / Capital Markets,Q2,2,2,2,2,8
+2018,Finding potential lenders in P2P lending: Hybrid Random Walk,P2P Lending,Q2,2,1,1,2,6
+2024,GNN with deep mutual learning for multi-modal recommendation,Investment,Q2,2,2,2,2,8
+2023,Graph-Based Recommendation Engine for Stock Investment,Stock Market,Q2,2,1,1,2,6
+2023,Graph-Convolved Factorization Machines,Fund Trading / Finance,Q2,2,2,2,2,8
+2018,Group Recommendation Based on Financial Social Network,Robo-Advisory,Q2,1,1,1,2,5
+2021,Learning to recommend via random walk in P2P lending,P2P Lending,Q2,2,1,1,2,6
+2020,Recommending investors for new startups via network diffusion,Venture Investment,Q2,2,1,1,2,6
+2022,Non-local Graph Aggregation for Diversified Stock Recommendation,Stock / Portfolio,Q2,2,2,2,2,8
+2025,Knowledge enhanced prompt learning for financial news,Financial News,Q2,2,2,1,2,7
+2025,Recommendation of A-Share Stock via Graph Dual-Attention,Stock,Q2,2,2,1,2,7
+2023,Adaptive CF with Personalized Time Decay Functions,Institutional Banking / Bonds,Q3,2,2,2,2,8
+2023,Investor preference analysis: An online optimization approach,P2P Lending / Wealth Mgmt,Q3,2,1,1,2,6
+2023,Behaviour Trace-Based Unsupervised Deep Embedding,Commercial Banking,Q3,2,2,1,2,7
+2022,BRec the Bank: Context-aware Self-attentive Encoder,Retail Banking,Q3,2,2,2,2,8
+2024,Can Perturbations Help Reduce Investment Risks? (SVAT),Stock Recommendation,Q3,2,2,2,2,8
+2023,Design a Recommendation System in Real Estate,Real Estate,Q3,1,1,1,2,5
+2021,Finding the Next Interesting Loan for P2P Investors,P2P Lending,Q3,2,1,1,2,6
+2020,History-Augmented Collaborative Filtering,Institutional Banking / Bonds,Q3,2,2,2,2,8
+2024,Interactive preference analysis: A reinforcement learning framework,Robo-Advisory,Q3,2,2,2,2,8
+2021,KiRTi: Blockchain-Based Credit Recommender,Credit / Lending,Q3,1,1,1,2,5
+2021,Learning Dynamic Insurance Recommendations from Click Sessions,Insurance,Q3,2,1,1,2,6
+2022,Learning Recommendations from User Actions in Insurance,Insurance,Q3,2,2,1,2,7
+2023,Leveraging Unstructured Data via Deep RL for Transaction Recommendations,Credit Card,Q3,1,1,1,2,5
+2019,Maximizing CLV using Stacked Neural Networks,Insurance,Q3,2,1,1,2,6
+2023,Personalized Dynamic Recommender System for Investors (PDRSI),Stock Recommendation,Q3,2,2,1,2,7
+2021,Real Estate Recommendation for Item Cold-Start,Real Estate,Q3,1,1,1,2,5
+2022,Sequential Banking Products Recommendation and User Profiling,Retail Banking,Q3,2,2,2,2,8
+2024,Flexible recommendation for debt collection using deep RL,Debt Collection,Q3,2,2,1,2,7
+2023,Personalized Stock Recommendation with Attention and Context (PSRIC),Stock Recommendation,Q3,2,2,2,2,8
+2020,DCDIR: Deep Cross-Domain Recommendation for Insurance Cold Start,Insurance,Q4,2,2,1,2,7
+2020,Heterogeneous Information Network based Cross Domain Insurance Recommendation,Insurance,Q4,2,2,2,2,8
+2024,Stock Recommendations using Temporal Graph Networks,Stock / Portfolio,Q4,2,2,2,2,8
+2021,Trend-aware Investment Target Recommendation with Heterogeneous Graph,Venture Capital,Q4,2,2,1,2,7
+2024,Deep Learning-Powered Financial Product Recommendation in Banks,Banking Products,Q4,2,1,1,2,6
+2024,Rolling Forward: LightGCN with Causal Graph Convolution for Credit Bonds,Credit Bonds,Q4,2,2,2,2,8
+2021,Graph-Based Stock Recommendation by Time-Aware Relational Attention,Stock Market,Q4,2,2,2,2,8
+2022,Modeling behavior sequence for fund recommendation with GraphDCF,Mutual Fund / Banking,Q4,2,2,1,2,7
+2025,Aligning Language Models with Investor Behavior (FLARKO),Asset Recommendation,Q4,2,2,1,2,7
+2025,Personalized Financial Product Recommendation via LLM + GNN,Financial Products,Q4,2,1,1,2,6
